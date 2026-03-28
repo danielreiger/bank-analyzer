@@ -7,7 +7,7 @@ Python-Tool zur automatisierten Analyse von Banken auf Basis regulatorischer Ken
 1. **Ticker eingeben** — beliebige börsennotierte Bank (z.B. DBK.DE, UBSG.SW, CBK.DE)
 2. **Kennzahlen berechnen** — ROE, ROA, Equity Ratio, Net Income Margin über 4 Jahre
 3. **Bank Health Score** — automatisierter 0-100 Score auf Basis regulatorischer Benchmarks
-4. **Excel-Export** — professionell formatierter Report inkl. Regulatory Context
+4. **Excel-Export** — formatierter Report inkl. Regulatory Context
 
 ## Beispiel-Output: Deutsche Bank AG
 ```
