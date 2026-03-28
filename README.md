@@ -1,6 +1,6 @@
 # 🏦 Bank Health Analyzer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK-KOMMT-GLEICH)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wRho39vmKW7uLr3XinVj6hlaiX2FGlbt?usp=sharing)
 
 Python-Tool zur automatisierten Analyse von Banken auf Basis regulatorischer Kennzahlen — orientiert am FINMA / Basel III Framework.
 
